@@ -1,6 +1,5 @@
-# next-starter
+# Practice the Next.js v13
 
 ## ⏱ 작업 기간
 
-- 2023.07 ~ 2023.08
-- Refactoring : 2023.08 ~ 🚧 🚜 🚧
+- 2023.11. ~ 🚀
